@@ -4,9 +4,13 @@
 <div align="center">
   <a href="https://github.com/tioluigidev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tioluigidev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+  <!--
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tioluigidev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <!-- Dev Icons -->
+  <!--
 <div style="display: inline_block"><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" title="HTML"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" title="CSS"/>
@@ -25,6 +29,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" title="C# for Unity 3D"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" title="Unity 3D"/>
 </div>
+  
+-->
  
 <!--
   Emojis: https://emojipedia.org/
