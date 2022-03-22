@@ -1,22 +1,22 @@
 <!-- Title -->
 ## Tio Luigi's dungeon. Explore carefully.
 
+
+<!-- GitHub Stats -->
+<div align="center">
+  <a href="https://github.com/tioluigidev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tioluigidev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tioluigidev&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+
 ### My API Examples
 | API | Protocol | Language/Framework | ORM/ODM | Features |
 |:--|:--|:--|:--|:--|
 | [API-REST-NodeJS-Sequelize](https://github.com/tioluigidev/API-REST-NodeJS-Sequelize) | REST | NodeJS + Express | Sequelize | JWT, CORS, ETag, Request rate, HATEOAS |
 
 
-<!-- GitHub Stats -->
-<!--
-<div align="center">
-  <a href="https://github.com/tioluigidev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tioluigidev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tioluigidev&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  -->
+
 <!-- Dev Icons -->
   <!--
 <div style="display: inline_block"><br>
