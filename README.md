@@ -2,9 +2,9 @@
 ## Tio Luigi's dungeon. Explore carefully.
 
 ### My API Examples
-| API | Protocol | Language/Framework | ORM/ODM |
-|:--|:--|:--|:--|
-| [API-REST-NodeJS-Sequelize](https://github.com/tioluigidev/API-REST-NodeJS-Sequelize) | REST | NodeJS | Sequelize |
+| API | Protocol | Language/Framework | ORM/ODM | Features |
+|:--|:--|:--|:--|:--|
+| [API-REST-NodeJS-Sequelize](https://github.com/tioluigidev/API-REST-NodeJS-Sequelize) | REST | NodeJS | Sequelize | JWT, CORS, ETag, Request rate, HATEOAS |
 
 
 <!-- GitHub Stats -->
