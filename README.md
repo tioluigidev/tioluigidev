@@ -11,9 +11,9 @@
 
 
 ### My API Examples
-| API | Protocol | Language/Framework | ORM/ODM |
-|:--|:--|:--|:--|
-| [API-REST-NodeJS-Sequelize](https://github.com/tioluigidev/API-REST-NodeJS-Sequelize) | REST | Javascript NodeJS + Express | Sequelize |
+| API | Protocol | Language | Frameworks | ORM/ODM |
+|:--|:--|:--|:--|:--|
+| [API-REST-NodeJS-Sequelize](https://github.com/tioluigidev/API-REST-NodeJS-Sequelize) | REST | Javascript | NodeJS + Express | Sequelize |
 
 
 
