@@ -19,9 +19,9 @@
   
 ### IOT & Electronics
   
-| API | Protocol | 
+| Repo | Description | 
 |:--|:--|
-| [SIM800-AT-Commands](https://github.com/tioluigidev/SIM800-AT-Commands) | AT Commands for SIM800 GSM/RPRS modem | 
+| [SIM800-AT-Commands](https://github.com/tioluigidev/SIM800-AT-Commands) | AT Commands for SIM800 GSM/RPRS modem (work in progress)| 
 | [USB-ESP32-SIM800L-Bridge](https://github.com/tioluigidev/USB-ESP32-SIM800L-Bridge) | Bridge firmware for ESP32+SIM800L IOT module | 
 
 <!-- Dev Icons -->
