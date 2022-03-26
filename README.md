@@ -14,8 +14,15 @@
 | API | Protocol | Language | Frameworks | ORM/ODM |
 |:--|:--|:--|:--|:--|
 | [API-REST-NodeJS-Sequelize](https://github.com/tioluigidev/API-REST-NodeJS-Sequelize) | REST | Javascript | NodeJS + Express | Sequelize |
+| [API-REST-Laravel-Eloquent](https://github.com/tioluigidev/API-REST-Laravel-Eloquent) | REST | PHP | Laravel | Eloquent |
 
-
+  
+### IOT & Electronics
+  
+| API | Protocol | 
+|:--|:--|
+| [SIM800-AT-Commands](https://github.com/tioluigidev/SIM800-AT-Commands) | AT Commands for SIM800 GSM/RPRS modem | 
+| [USB-ESP32-SIM800L-Bridge](https://github.com/tioluigidev/USB-ESP32-SIM800L-Bridge) | Bridge firmware for ESP32+SIM800L IOT module | 
 
 <!-- Dev Icons -->
   <!--
