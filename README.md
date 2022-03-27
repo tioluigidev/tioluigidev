@@ -3,12 +3,25 @@
 
 
 <!-- GitHub Stats -->
+<!--
 <div align="center">
   <a href="https://github.com/tioluigidev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tioluigidev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tioluigidev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+-->
+<!--
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,jquery,express,bootstrap,php,laravel&theme=dark)](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=linux,docker,git,graphql&theme=dark)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=blender,godot,unity&theme=dark)](https://skillicons.dev)  
+
+
+
+-->
 
 ### My API Examples
   
