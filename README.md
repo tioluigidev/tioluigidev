@@ -24,12 +24,13 @@
 
 ##
   
-### My API Examples
+### My Code Examples
   
-| API | Protocol | Language | Frameworks | ORM/ODM |
-|:--|:--|:--|:--|:--|
-| [API-REST-NodeJS-Sequelize](https://github.com/tioluigidev/API-REST-NodeJS-Sequelize) | REST | Javascript | NodeJS + Express | Sequelize |
-| [API-REST-Laravel-Eloquent](https://github.com/tioluigidev/API-REST-Laravel-Eloquent) | REST | PHP | Laravel | Eloquent |
+| Repo | Description |
+|:--|:--|
+| [API-REST-NodeJS-Sequelize](https://github.com/tioluigidev/API-REST-NodeJS-Sequelize) | API REST in Javascript with NodeJS + Express + Sequelize |
+| [API-REST-Laravel-Eloquent](https://github.com/tioluigidev/API-REST-Laravel-Eloquent) | API REST in PHP with Laravel + Eloquent |
+| [NodeJS-Raw-Cluster](https://github.com/tioluigidev/NodeJS-Raw-Cluster) | Example of an App in cluster, using pure Node.JS (no PM2). |
 
   
 ### IOT & Electronics
