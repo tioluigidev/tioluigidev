@@ -23,7 +23,8 @@
 -->
 
 ##
-  
+
+<!--
 ### Code Examples
   
 | Repo | Description |
@@ -33,6 +34,7 @@
 | [NodeJS-Raw-Cluster](https://github.com/tioluigidev/NodeJS-Raw-Cluster) | Example of an App in cluster, using pure Node.JS (no PM2) |
 | [NodeJS-PM2-Cluster](https://github.com/tioluigidev/NodeJS-PM2-Cluster) | Example of an App in cluster, using PM2 |
 
+-->
   
 ### IOT & Electronics
   
