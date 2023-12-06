@@ -4,6 +4,14 @@
 
 <!-- GitHub Stats -->
 
+<div>
+<img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tioluigidev&theme=github_dark"/>
+<!--- <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tioluigidev&theme=github_dark"/> -->
+<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tioluigidev&theme=github_dark"/>
+<img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tioluigidev&theme=github_dark"/>
+</div>
+
+
 <div align="center">
   <a href="https://github.com/tioluigidev">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tioluigidev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
