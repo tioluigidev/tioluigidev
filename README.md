@@ -11,11 +11,6 @@
 </div>
 
 
-<div align="center">
-  <a href="https://github.com/tioluigidev">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tioluigidev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tioluigidev&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 
 <!--
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,jquery,express,bootstrap,php,laravel&theme=dark)](https://skillicons.dev)
