@@ -41,7 +41,7 @@
   
 | Repo | Description | 
 |:--|:--|
-| [Core Rope Memory Module](https://github.com/tioluigidev/core-rope-memory) | Core Rope Memory Module | 
+| [Core Rope Memory Module](https://github.com/tioluigidev/core-rope-memory) | My 96 bits core rope memory module project | 
 | [Tio Luigi´s IOT Minilab](https://github.com/tioluigidev/tioluigisiotminilab) | My IOT Minilab | 
 
 ### Software Architecture
