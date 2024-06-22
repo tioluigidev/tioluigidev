@@ -41,6 +41,7 @@
   
 | Repo | Description | 
 |:--|:--|
+| [Core Rope Memory Module](https://github.com/tioluigidev/core-rope-memory) | Core Rope Memory Module | 
 | [Tio Luigi´s IOT Minilab](https://github.com/tioluigidev/tioluigisiotminilab) | My IOT Minilab | 
   
 ### eBooks
