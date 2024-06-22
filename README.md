@@ -43,6 +43,13 @@
 |:--|:--|
 | [Core Rope Memory Module](https://github.com/tioluigidev/core-rope-memory) | Core Rope Memory Module | 
 | [Tio Luigi´s IOT Minilab](https://github.com/tioluigidev/tioluigisiotminilab) | My IOT Minilab | 
+
+### Software Architecture
+  
+| Repo | Description | 
+|:--|:--|
+| [Hexagonal Architecture Python Example]([https://github.com/tioluigidev/core-rope-memory](https://github.com/tioluigidev/hexagonal-architecture-python-example)) | Hexagonal Architecture Python Example | 
+
   
 ### eBooks
   
